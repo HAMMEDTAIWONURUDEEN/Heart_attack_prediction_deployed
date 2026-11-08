@@ -1,5 +1,4 @@
-Python 3.14.4
-Streamlit: 1.67.0
-Pandas: 3.1.1
-Scikit-learn: 1.9.1
-Joblib: 1.6.0
+streamlit==1.67.0
+pandas==3.1.1
+scikit-learn==1.9.1
+joblib==1.6.0
